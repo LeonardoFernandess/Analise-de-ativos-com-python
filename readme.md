@@ -89,7 +89,7 @@ Em um novo terminal, com o ambiente virtual ativado, navegue até o diretório o
 
 ```bash
 
-streamlit run app.py
+streamlit run main.py
 
 ```
 
